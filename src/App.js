@@ -1,4 +1,4 @@
-
+//imports
 import { useEffect, useState } from 'react';
 import './App.css';
 import NoteContainer from './Components/NoteContainer/NoteContainer';
